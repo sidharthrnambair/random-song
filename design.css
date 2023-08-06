@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://unsplash.com/photos/YrtFlrLo2DQ");
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #song-info {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  #generate-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #1db954;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  #generate-btn:hover {
+    background-color: #0d8f4f;
+  }
+  
